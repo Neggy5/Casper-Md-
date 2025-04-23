@@ -1,13 +1,13 @@
  <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">CASPER-MD</h1>
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">PHANTOM_MD</h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+Neglevel;Created+by+Neglevel;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+PHANTOM;Created+by+Neglevel;Fork+Me+and+Enjoy!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/dcix8w.jpeg" alt="Main Graphic" />
+  <img src="https://files.catbox.moe/y7yry1.jpg" alt="Main Graphic" />
 </p>
 
 <p align="center">
@@ -78,14 +78,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
 </p>
 
-<h2 align="center">📋 Deployment Tutorial</h2>
-
-### YouTube Bot Hosting  
-<a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" />
-</a>
-
----
 <h2 align="center">📋 Deployment websites</h2>
 
 ### main site bot hosting
@@ -150,5 +142,5 @@
   🌟 *Your support keeps this project alive! Thank you for forking, starring, and sharing it with others!* 🌟
 </p>
 
-# Casper-Md-
-Powered by casper
+# PHANTOM_MD
+Powered by PHANTOM⚡
